@@ -1,1 +1,2 @@
-​
+Firtly we will take a stack which will store the element and their position, and we know for last element always ans will zero so we have store that ans first then
+Loop through the temp array from second last and check if there are any greater element after that in stack if not then ans zero, otherwise ans will be length from that element;.
