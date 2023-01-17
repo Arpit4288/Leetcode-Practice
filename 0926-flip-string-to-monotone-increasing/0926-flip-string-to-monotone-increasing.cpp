@@ -12,8 +12,8 @@ public:
                 // if c == '0'
                 // we need to check two condition whether we can flip this 0 to 1 or we can flip all 1 to 0 which we have counted so far we have to take min of it
                 numberOfFlips++;  // if we flip 0 to 1;
-                numberOfFlips = min(count1, numberOfFlips);
             }
+            numberOfFlips = min(count1, numberOfFlips);
         }
         return numberOfFlips;
     }
