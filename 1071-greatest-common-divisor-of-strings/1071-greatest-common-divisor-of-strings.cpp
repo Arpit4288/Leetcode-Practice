@@ -1,10 +1,8 @@
 class Solution {
 public:
-    string gcdOfStrings(string str1, string str2) {
-        // Check if concatenated strings are equal or not, if not return ""
-        if(str1 + str2 != str2 + str1)
-            return "";
-        // If strings are equal than return the substring from 0 to gcd of size(str1), size(str2)
-        return str1.substr(0, gcd(str1.size(), str2.size()));
+    string gcdOfStrings(string s1, string s2) {
+        if(s1 + s2 != s2 + s1) return "";   // it is prety sures that if both are not equal then it is not possible that both was formed by same substr hence return ""
+        int len = __gcd(s1.size(), s2.size());  // the dividable string have the size equal to the gcd of s1.size(), s2.size() tbhi toh dono ko devide krega
+        return s1.substr(0, len);
     }
 };
