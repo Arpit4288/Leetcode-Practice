@@ -18,7 +18,7 @@ public:
         }while(slow != fast);
         slow = head;
         while(slow != fast){
-            if(slow->next == NULL || fast->next == NULL || fast->next->next == NULL) return NULL;
+            // if(slow->next == NULL || fast->next == NULL || fast->next->next == NULL) return NULL;
             slow = slow->next;
             fast = fast->next;
         }
