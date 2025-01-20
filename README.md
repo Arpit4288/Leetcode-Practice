@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0952-word-subsets](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
