@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0854-making-a-large-island](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0854-making-a-large-island) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
