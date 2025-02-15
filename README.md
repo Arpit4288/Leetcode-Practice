@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0854-making-a-large-island](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
@@ -196,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
