@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -211,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
