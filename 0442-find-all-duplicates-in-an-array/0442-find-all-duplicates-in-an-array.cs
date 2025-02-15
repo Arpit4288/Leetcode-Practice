@@ -1,15 +1,21 @@
 public class Solution {
     public IList<int> FindDuplicates(int[] nums) {
-        int[] arr = new int[nums.Length + 1];
+        IList<int> result = new List<int>();
         
-        for(int i = 0; i < nums.Length; i++){
-            if(arr[nums[i]] == 0) arr[nums[i]] = 1;
-            else arr[nums[i]] = -1;
+        foreach (int num in nums) {
+            int index = System.Math.Abs(num) - 1;
+            if (nums[index] < 0) {
+                result.Add(index + 1);
+            } else {
+                nums[index] = -nums[index];
+            }
         }
-        IList<int> list = new List<int>();
-        for(int i = 1; i < arr.Length; i++){
-            if(arr[i] == -1) list.Add(i);
-        }
-        return list;
+        
+        // foreach (int num in nums) {
+        //     int index = System.Math.Abs(num) - 1;
+        //     nums[index] = -nums[index];
+        // }
+        
+        return result;
     }
 }
