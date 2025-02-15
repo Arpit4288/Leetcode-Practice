@@ -8,6 +8,6 @@ public class Solution {
         }
         
         if(targetCount == 0) return new List<int>();
-        else return Enumerable.Range(smallerCount, targetCount).ToArray();
+        else return Enumerable.Range(smallerCount, targetCount).ToList();
     }
 }
