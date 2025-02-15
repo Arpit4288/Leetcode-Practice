@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2145-grid-game) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
@@ -203,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
