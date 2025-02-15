@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0854-making-a-large-island](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0854-making-a-large-island) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
@@ -224,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
