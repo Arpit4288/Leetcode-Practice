@@ -12,10 +12,10 @@ public class Solution {
         }
         
         // if you want to keep original array same otherwise we can skip
-        foreach (int num in nums) {
-            int index = System.Math.Abs(num) - 1;
-            nums[index] = -nums[index];
-        }
+        // foreach (int num in nums) {
+        //     int index = System.Math.Abs(num) - 1;
+        //     nums[index] = -nums[index];
+        // }
         
         return result;
     }
