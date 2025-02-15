@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3447-clear-digits) |
