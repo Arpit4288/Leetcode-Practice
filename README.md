@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
