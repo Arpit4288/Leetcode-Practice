@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
