@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
