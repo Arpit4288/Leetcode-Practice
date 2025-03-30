@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0768-partition-labels](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0952-word-subsets) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0768-partition-labels](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0344-reverse-string) |
+| [0768-partition-labels](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [2551-apply-operations-to-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
