@@ -26,7 +26,7 @@ public class Solution {
 
         long ans = 0;
         for(int i = 1; i < n - 1; i++){
-            long trip = (long)((long)storeLeftMax[i - 1] - (long)arr[i]) * (long)storeRightMax[i + 1];
+            long trip = (long)(storeLeftMax[i - 1] - arr[i]) * storeRightMax[i + 1];
             // Console.WriteLine(trip + " >> Left MAX: " + storeLeftMax[i - 1] + " Right MAX: " + storeRightMax[i + 1]);
             if(trip > ans) ans = trip;
         }
