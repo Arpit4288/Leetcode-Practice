@@ -2,7 +2,7 @@ public class Solution {
     public int MinimumOperations(int[] arr) {
         int n = arr.Length;
         if(n == 1) return 0;
-        // if(n == 2) arr[0] == arr[1] ? 1 : 0;
+        if(n == 2) return arr[0] == arr[1] ? 1 : 0;
 
         HashSet<int> st = new HashSet<int>();
 
