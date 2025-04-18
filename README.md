@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0344-reverse-string) |
