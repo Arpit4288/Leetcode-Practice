@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0854-making-a-large-island](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1876-map-of-highest-peak) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
