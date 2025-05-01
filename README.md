@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2249-count-the-hidden-sequences) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2509-minimize-xor) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -483,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arpit4288/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Shortest Path
@@ -502,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arpit4288/Leetcode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Linked List
 |  |
