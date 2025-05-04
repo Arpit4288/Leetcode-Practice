@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0854-making-a-large-island) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0854-making-a-large-island) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -454,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
