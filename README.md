@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1500-count-largest-group) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -531,4 +533,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Arpit4288/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
