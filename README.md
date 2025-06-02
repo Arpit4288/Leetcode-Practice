@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0283-move-zeroes) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Arpit4288/Leetcode-Practice/tree/master/0797-rabbits-in-forest) |
