@@ -1,1 +1,0 @@
-do inorder of both trees and while traversing for inorder focus only on leaf node after then match these two array and return the ans
